@@ -10,7 +10,7 @@ Python 3.11 and Node.js 22 installed
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/your-project.git
+https://github.com/prince950408/geobit_test.git
 ```
 
 Frontend
