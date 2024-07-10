@@ -4,8 +4,7 @@
 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-Python 3.11 installed
-Node.js 22
+Python 3.11 and Node.js 22 installed
 
 ## Setup
 Clone the repository:
