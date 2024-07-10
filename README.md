@@ -1,7 +1,6 @@
 # geobit_test
 
 ## Installation
-Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 Python 3.11 and Node.js 22 installed
