@@ -30,6 +30,7 @@ pip install -r requirements.txt
 
 ## Configuration
 Create a .env files for both frontend and backend:
+
 Frontend
 ```
 REACT_APP_SERVER_URL=http://localhost:5000/
