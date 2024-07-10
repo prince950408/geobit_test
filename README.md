@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ## Configuration
-Create a .env files for both frontend and backend:
+Create .env files for both frontend and backend:
 
 Frontend
 ```
